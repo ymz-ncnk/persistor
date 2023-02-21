@@ -1,2 +1,2 @@
-# persistor
-Provides persistence for named data
+# Persistor
+Persistor provides persistence for named data.
